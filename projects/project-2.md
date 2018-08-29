@@ -13,11 +13,11 @@ labels:
   - GitHub
 summary: A website for my father's construction business that I developed in my spare time.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/f2c_1.png">
 <img class="ui medium right floated rounded image" src="../images/f2c_2.png">
-<img class="ui medium right floated rounded image" src="../images/f2c_3.png">
+<img class="ui medium right floated rounded image" src="../images/f2c_1.png">
 <img class="ui medium right floated rounded image" src="../images/f2c_4.png">
+<img class="ui medium right floated rounded image" src="../images/f2c_3.png">
+
 
 Floor2Ceiling is a website that I created in the Summer of 2018 during my spare time for my father's local consturction business. I started this project to help me learn how to design a website using HTML and CSS.
 
