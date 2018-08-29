@@ -1,24 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/f2cicon.png
+title: Floor2Ceiling
+permalink: projects/F2C
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-08-29
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - HTML
+  - CSS Grid
+  - Web Design
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A website for my father's construction business that I developed in my spare time.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/f2c_1.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Floor2Ceiling is a website that I created in the Summer of 2018 during my spare time for my father's local consturction business. I started this project to help me learn how to design a website using HTML and CSS.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I began this project with only basic knowledge of self-taught HTML and CSS. Everything that I learned about building this website is from various YouTube tutorials. I first started with videos to refresh myself of the basics of HTML and CSS and eventually learned how to use CSS Flexbox and CSS Grid. I decided to use CSS Grid to build this website because it was more recent and interesting and I wanted to try the code out for myself. The outcome is a simple informative website with links to showcase different areas of renovation, most recent projects, and a contact form. 
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
