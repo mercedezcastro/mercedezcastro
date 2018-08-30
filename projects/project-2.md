@@ -19,10 +19,12 @@ summary: A website for my father's construction business that I developed in my 
 <img class="ui medium right floated rounded image" src="../images/f2c_3.png">
 
 
-Floor2Ceiling is a website that I created in the Summer of 2018 during my spare time for my father's local consturction business. I started this project to help me learn how to design a website using HTML and CSS.
+Floor2Ceiling is a website that I created in the Summer of 2018 during my spare time for my father's local construction business. I started this project to help me learn how to design a website using HTML and CSS.
 
-I began this project with only basic knowledge of self-taught HTML and CSS. Everything that I learned about building this website is from various YouTube tutorials. I first started with videos to refresh myself with the basics of HTML. Eventually, I stumbled across videos on CSS Flexbox and CSS Grid. CSS Grid immediately sparked my interest in how simple and unique the code was, so I decided to use it to build this website because it was more recent and interesting and I wanted to try the code out for myself. The outcome is a simple informative website with links to showcase different areas of renovation, most recent projects, and a contact form. 
+I began this project with only basic knowledge of self-taught HTML and CSS. Everything that I learned about building this website is from various YouTube tutorials. I first started with videos to refresh myself with the basics of HTML. Eventually, I stumbled across videos on CSS Flexbox and CSS Grid. 
 
-In this project I gained experience with responsive web design, HTML, and CSS. 
+CSS Grid immediately sparked my interest in how simple and unique the code was. I also decided to use Grid to build this website because it was more recent than flexbox and I wanted to farmiliarize myself with the code. The outcome is a simple informative website with links to showcase different areas of renovation, most recent projects, and a contact form. 
+
+In this project I gained useful experience with responsive web design, HTML, and CSS + Grid.  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/meowcedez/floor2ceiling"><i class="large github icon"></i>theVacay/vacay</a>
