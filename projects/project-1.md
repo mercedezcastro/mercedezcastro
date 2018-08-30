@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/milleniumicon.jpg
 title: Millennium
 permalink: projects/millennium
 # All dates must be YYYY-MM-DD format!
@@ -20,25 +20,27 @@ summary: As a manager for a Medical Spa office, I was responsible for implementi
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In 2012 to 2015 I worked as a Manager along side Doctors, nurses, and estheticians for a Medical Spa office. We offered procedures such as Botox, fillers, laser treatments, and numerous other services.   
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+One of the biggest tasks I was responsible for during my time there was installing and implementing a new patient software.  When I started my position there, we were using an application called PatientNOW, which was a very outdated and inefficient program that was responsible for storing and handling data on over 5,000 patients. It was unable to give any useful data on customer retention and   growth nor our expenses and profits. We also had to use numerous other applications, such as Quickbooks and mailchimp to handle tasks because PatientNOW was not capable of ringing up customers nor sending emails and notification reminders. 
 
-Here is some code that illustrates how we read values from the line sensors:
+My goal was to find one program that could do it all.  I researched over 50 different applications and set up meetings and demos with those that I believed could offer what I was interested in. A very important factor that I had to take into consideration was that it needed to be HIPAA (Health Insurance Portability and Accountability Act) compliant. Since we were responsible for keeping a file of sensitive health information on each patient, I had to ensure that the new software would keep our data protected.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+I found Millennium, which is a software for salon and spas, but I knew that I could customize and program the software to fit my needs. Most importantly, it was HIPAA compliant. Now the hard part began. I was responsible for transferring all the data from all the other programs that we used into Millennium.  It was a huge undertaking to say the least.
+Part of my duties included:
+-	Reallocating every patient’s data from PatientNOW into Millennium. This included everything from phone numbers, addresses, emails, and more.
+-	Input sales information on every single service and product that we offered such as, name, amount in inventory, prices, distributor, etc.
+-	Create a system for reminder notifications via text message or email and a monthly newsletter of specials via a mailing list.
+-	Set up a membership program along with membership billing (automatic reoccurring fees), special member discounts on services and products, and separate mailing list.
+-	Establish an employee schedule that would sync with the appointment book to see when certain services are offered and the duration of each service (color-coded and time blocked)
+-	Set up and maintain reports that would automatically generate and submit customer and finance reports.
+-	Input and manage information on the current inventory for all the products that we had on hand.
+
+I also had to set up meetings and 1 on 1 time with every employee to teach them how to use Millennium. While transferring and inputting all the data into Millennium was tedious, I believe teaching was the hardest part of this project. Let’s just say that the biggest thing that I learned during this whole process was patience. 
+
+
+You can learn more about Millennium Software [here](https://www.millenniumsi.com).
 
 
 
