@@ -18,7 +18,7 @@ summary: A website for my father's construction business that I developed in my 
 <img class="ui medium right floated rounded image" src="../images/f2c_4.png">
 <img class="ui medium right floated rounded image" src="../images/f2c_3.png">
 
-Floor2Ceiling is a website that I created in the Summer of 2018 during my spare time for my father's local construction business. I started this project to help me learn how to design a website using HTML and CSS.
+Floor2Ceiling is the first website that I ever created. I began this project in the Summer of 2018 during my spare time for my father's local construction business. I started this project to help me learn how to design a website using HTML and CSS.
 
 I began this project with only basic knowledge of self-taught HTML and CSS. Everything that I learned about building this website is from various YouTube tutorials. I first started with videos to refresh myself with the basics of HTML. Eventually, I stumbled across videos on CSS Flexbox and CSS Grid. 
 
