@@ -13,7 +13,7 @@ labels:
 summary: As a manager for a Medical Spa office, I was responsible for implementing a new software into our system.
 ---
 
-<img class="ui medium floated rounded image" src="../images/millennium_3.png">
+<img class="ui image" src="../images/millennium_3.png">
 
 In 2012 to 2015 I worked as a Manager along side Doctors, nurses, and estheticians for a Medical Spa office. We offered procedures such as Botox, fillers, laser treatments, and numerous other services.   
 
