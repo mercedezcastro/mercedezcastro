@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Video Games",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -52,6 +52,7 @@
         "C",
         "C++",
         "Java",
+        "Python",
         "Javascript",
         "HTML",
         "CSS"
@@ -62,10 +63,14 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Atom",
+        "Microsoft Office",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Final Cut Pro"
       ]
     }
   ],
@@ -74,12 +79,22 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Honolulu Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "B.A.",
+      "startDate": "2014-09-01",
+      "endDate": "2016-09-01",
+      "gpa": "3.85",
+      "courses": [
+      ]
+    }    
   ],
   "work": [
     {
@@ -136,16 +151,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Dean's List",
+      "date": "Fall 2013, Spring 2014, Fall 2014, Spring 2016, Fall 2016",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "The Dean's List requires students to have completed 6 or more credits for a letter grade achieving a grade point average of at least 3.6 for the semester, a cumulative grade point ratio of 3.0, and no N’s, I’s, or F’s, and a maximum of one W in the semester of eligibility."
     }
   ],
   "references": [
