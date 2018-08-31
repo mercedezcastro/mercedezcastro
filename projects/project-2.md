@@ -5,7 +5,7 @@ image: images/f2cicon.png
 title: Floor2Ceiling
 permalink: projects/F2C
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-29
+date: 2018-08-30
 labels:
   - HTML
   - CSS Grid
