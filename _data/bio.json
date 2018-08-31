@@ -123,8 +123,22 @@
         "Responsible for planning employee schedules, company meetings, client events, and enforcing company policies and procedures",
         "Provided technical support and was responsible for troubleshooting computer, software, and network issues"
       ]
+    },
+    {
+      "company": "7 For All Mankind",
+      "position": "Key Holder",
+      "website": "",
+      "startDate": "2009-01-01",
+      "endDate": "2012-03-15",
+      "summary": "",
+      "highlights": [
+        "Maintained solid product knowledge to educate guest and worked as part of a team to meet individual and store goals",
+        "Interviewed, trained, and supervised new employees in regards to company procedures and products to execute outstanding results in creating a positive and encouraging working environment",
+        "Collaborated with a team to maintain and enhance an orderly store appearance and aid in order processing, inventory control, and cashier management",
+      ]
     }
   ],
+  
   "volunteer": [
     {
       "organization": "",
