@@ -13,7 +13,7 @@ labels:
 summary: As a manager for a Medical Spa office, I was responsible for implementing a new software into our system.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/millennium_3.png">
+<img class="ui medium floated rounded image" src="../images/millennium_3.png">
 
 In 2012 to 2015 I worked as a Manager along side Doctors, nurses, and estheticians for a Medical Spa office. We offered procedures such as Botox, fillers, laser treatments, and numerous other services.   
 
@@ -21,7 +21,7 @@ One of the biggest tasks I was responsible for during my time there was installi
 
 My goal was to find one program that could do it all.  I researched over 50 different applications and set up meetings and demos with those that I believed could offer what I was interested in. A very important factor that I had to take into consideration was that it needed to be HIPAA (Health Insurance Portability and Accountability Act) compliant. Since we were responsible for keeping a file of sensitive health information on each patient, I had to ensure that the new software would keep our data protected.
 
-<img class="ui medium right floated rounded image" src="../images/millennium_3.png">
+<img class="ui medium right floated rounded image" src="../images/millennium_2.png">
 
 I found Millennium, which is a software for salon and spas, but I knew that I could customize and program the software to fit my needs. Most importantly, it was HIPAA compliant. Now the hard part began. I was responsible for transferring all the data from all the other programs that we used into Millennium.  It was a huge undertaking to say the least.
 Part of my duties included:
