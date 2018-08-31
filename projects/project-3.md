@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blackjack.png
+image: images/blackjackicon.png
 title: Blackjack
 permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
