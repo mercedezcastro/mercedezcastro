@@ -5,7 +5,7 @@ image: images/blackjackicon.png
 title: Blackjack
 permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-28
+date: 2018-08-30
 labels:
   - Java
   - Game
