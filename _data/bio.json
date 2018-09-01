@@ -34,7 +34,22 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Web & App Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "VR",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Pentesting",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
@@ -53,7 +68,6 @@
         "C++",
         "Java",
         "Python",
-        "Javascript",
         "HTML",
         "CSS"
       ]
