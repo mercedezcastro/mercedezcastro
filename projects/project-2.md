@@ -26,5 +26,4 @@ CSS Grid immediately sparked my interest in how simple and unique the code was. 
 
 In this project I gained useful experience with responsive web design, HTML, and CSS + Grid.  
  
-You can see my code here: 
-Source: <a href="https://github.com/meowcedez/floor2ceiling"><i class="large github icon"></i>meowcedez/floor2ceiling</a>
+You can view my source code here: <a href="https://github.com/meowcedez/floor2ceiling"><i class="large github icon"></i>meowcedez/floor2ceiling</a>
