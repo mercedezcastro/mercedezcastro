@@ -19,6 +19,5 @@ The game would start off by dealing you two random cards by using the Math.rando
 
 I can still recall how much fun and ‘aha!’ moments that I had programing this game, and I can still remember how proud I felt submitting the code for my first ‘real’ program.
 
-My code for this game can be viewed here:
-Source: <a href="https://github.com/mercedezcastro/blackjack"><i class="large github icon"></i>mercedezcastro/blackjack</a>
+My code for this game can be viewed here: <a href="https://github.com/mercedezcastro/blackjack"><i class="large github icon"></i>mercedezcastro/blackjack</a>
 
