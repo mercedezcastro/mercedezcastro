@@ -9,7 +9,7 @@ date: 2018-08-30
 labels:
   - Java
   - Game
-summary: A card game that I developed for ICS 211.
+summary: A card game that I developed for ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/blackjackcode.png">
