@@ -17,7 +17,6 @@ In ICS 111, I used Java to create a terminal based game of Blackjack. I was the 
 
 The game would start off by dealing you two random cards by using the Math.random() method. It would also show 1 of the dealer's face-up card. The game would continue on as normal by asking you if you wanted to ‘Hit’ or ‘Stand’. The loop would continue unless the user chose to stand. As in the regular game, if the player didn’t exceed 21, then the dealer would show his second hidden card. The winner would be chosen according to the normal rules of the game and you could choose to replay the game or not before the program would end. If the user chose to replay the game, the program would continue dealing the remaining deck of cards that weren’t used.
 
-I can still recall how much fun and ‘aha!’ moments that I had programing this game, and I can still remember how proud I felt submitting the code for my first ‘real’ program.
+I can still recall how much fun and ‘aha!’ moments that I had programing this game, and I can still remember how proud I felt submitting the code for my first ‘real’ program. This class coupled with an amazing professor is what gave me the push towards an ICS degree.
 
 My code for this game can be viewed here: <a href="https://github.com/mercedezcastro/blackjack"><i class="large github icon"></i>mercedezcastro/blackjack</a>
-
