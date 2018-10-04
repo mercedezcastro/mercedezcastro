@@ -14,32 +14,6 @@ labels:
 
 <center><img class="ui image" src="../images/batman.jpg"></center>
 
-# The Hero We Need But Don't Deserve
+# Header
 
-Be honest. When you first started using ESLint it was exasperating. You’re not human if you don’t internally groan when those red squiggly lines appear. I bet you even roll your eyes a bit when it nags you to fix your barbaric spacing. You never appreciated the perfectly indented and readable outcome at the end. You were just happy to get rid of the silently shrieking red X in the corner of your screen.  
-
-ESLint is like the nagging girlfriend you only learn to appreciate until later. You know, that girlfriend who kept nagging you to pick up after yourself and to get your life together. You know she’s right and has good intentions, but damn she’s annoying when all you want to do is fire up the XBOX even if there’s overdue bills and a weeks worth of dishes in the sink.
-
-While you may not appreciate ESLint at the moment and may even think of it as the overbearing, bossy partner you never asked for, you’ll be thinking of it years down the road when you’re out there making 6 figures and your boss and co-workers praise you for your impeccable coding style. Remember, it was ESLint that forced you to stop indenting like a mad man and ingrained in you how to properly use those quotation marks.
-
-# Coding Style is Personal
-
-Ever have a classmate ask you to take a look at their code because for some odd reason it isn’t compiling or it’s returning an error? It’s probably just a typo or something silly they can’t see after hours of starring at their screen. So, you take a look for them and all of a sudden your brain does a back flip and it’s almost as if you can no longer understand let alone read a simple declaration.  
-
-Isn’t it funny how sometimes our brains can’t even understand a simple function or for loop if it isn’t indented the way we’re used to? I mean, don’t even bother asking me to read your code if you start your curly braces on a new line. Literally unreadable. Our styles develop as we learn more code and work with different editors or people. My style has certainly evolved. Every professor that I’ve studied under enforced his or her own coding standards that we had to follow when submitting work. So, what’s right and what’s wrong? How can you tell? In terms of coding standards, I think it’s more important that we’re all on the same page about about what NOT to do. Some things are –or should be – universally considered a no-no.
-
--	Naming variables after a random alphabet or word
--	Naming a function something that has no correlation to what it actually does.
--	Inconsistent indenting, spacing, and formatting.
--	Zero comments describing the functionally of operations.
--	Large amounts of code commented out with no explanation.
-
-Maybe we’ll never be able to all completely come together to agree that curly braces should start on the function line and end on a new line, but what everyone should be is consistent. If you want to start the bracket on a new line like a psycho then who am I to stop you? Go for it! But make sure that you keep that style consistent for the whole process.
-
-# Raising Your Standards
-
-Our whole goal here is to ensure that our code is readable not only to our friends and colleagues, but also our future selves. We’ve all been there, right? Scratching our heads wondering what in the world this function is supposed to do because we named the variables ‘a’ and ‘b’ and we didn’t leave any comments.
-
-Since communication is key in any team oriented project, then shouldn’t we, as professionals, all be on the same page? Especially for big, team projects, a consistent and readable coding standard is extremely important. Think long term. Think of the bigger picture. Is your code going to be easy to understand to someone who comes along months or years after you? If someone can’t read your code, no matter how amazing or efficient, they won’t be able to maintain your code or help develop it further. No one will even bother trying to debug a code they can’t even read.
-
-In essence, if you’re coding in the garage for fun with your little nephew, then is having a coding standard really important? Maybe not so much in this case, but if you’re hoping to work in a professional environment along side other people, then you will have to raise your standards. So, my advice: start <b>now</b>. Form good habits and raise your coding standards now, so that when it’s time to turn your ‘A’ game on it’ll be like second nature. Just don’t forget to thank ESLint for that 6 figure paycheck.
+Text
