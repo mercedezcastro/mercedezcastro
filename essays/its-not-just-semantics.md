@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Test
+title: It's Not Just Semantics
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-01
 labels:
   - CSS
   - HTML
-  - Framworks
+  - Frameworks
   - Semantic UI
   - Web Development
 ---
