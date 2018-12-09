@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/HACC2018/The-Johnson-Family/blob/master/app/public/images/circleavatar.png?raw=true
+image: images/circleavatar.png
 title: Gather
 permalink: projects/gather
 # All dates must be YYYY-MM-DD format!
