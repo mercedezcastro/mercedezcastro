@@ -14,9 +14,11 @@ labels:
 summary: A web application designed for the Department of Sustainability at UH Manoa.
 ---
 
-<img class="ui image" src="../images/landing1.png">
+<img class="ui image centered" src="../images/GatherLogo.png">
 
 In October of 2018, I entered the Hawaii Annual Code Challenge with a group of classmates from ICS 314 Software Engineering for our final project. During the HACC kickoff event, we were presented with a series of challenges allocated by various governing departments across the state. The theme for this year’s event was ‘Sustainability’ and the challenge that our group, The Johnson Family, chose was – Trash. 
+
+<img class="ui image centered" src="../images/landing1.png">
 
 # Overview
 
@@ -26,17 +28,17 @@ Our solution is a two-pronged approach involving a web app and a smart bin. Our 
 
 In order to realize our solution, we are implementing a database in a series of collections through MongoDB. The web app will use the JavaScript framework Meteor with Semantic UI React, simplifying the process of designing and deploying a clean, intuitive app. The accompanying smart bin will be implemented using proximity and load cell sensors connected to a NodeMCU WiFi Development Board that’s programmed to push data to our database using the MQTT protocol.
 
-<img class="ui image" src="../images/trashbin.jpg">
+<img class="ui image centered" src="../images/trashbin.jpg">
 
 # Web App Features
 
-<img class="ui image" src="../images/landing3.png">
+<img class="ui image centered" src="../images/landing3.png">
 
 
 
 
 
-<img class="ui image" src="../images/landing4.png">
+<img class="ui image centered" src="../images/landing4.png">
 
 # Links
 
