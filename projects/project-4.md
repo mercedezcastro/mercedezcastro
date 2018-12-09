@@ -14,7 +14,7 @@ labels:
 summary: A web application designed for the Department of Sustainability at UH Manoa.
 ---
 
-<img class="ui image centered" src="../images/GatherLogo.png">
+<img class="ui image centered" src="https://github.com/HACC2018/The-Johnson-Family/blob/master/app/public/images/gatherLogo.png?raw=true">
 
 In October of 2018, I entered the Hawaii Annual Code Challenge with a group of classmates from ICS 314 Software Engineering for our final project. During the HACC kickoff event, we were presented with a series of challenges allocated by various governing departments across the state. The theme for this year’s event was ‘Sustainability’ and the challenge that our group, The Johnson Family, chose was – Trash. 
 
