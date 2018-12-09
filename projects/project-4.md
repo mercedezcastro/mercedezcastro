@@ -58,12 +58,17 @@ As part of the front end team, I was responsible for the design and user experie
 * Graphics Design
 * Video Production
 
+My biggest challenge during this competition was understanding the back end functionality. As someone with no prior knowledge of database systems, being able to extract data from the database to accurately deploy and display in the application was a complicated and perplexing task. Due to the time limitations for the event we were also unable to implement many other additional features, such as a ‘Organizations’ page were groups can create and market waste audit events and a reward system as incentive for students to actively participate and contribute to zero waste practices.
+
+Although participating in this event was without question an extremely valuable learning experience, I must say that these events are not for the faint of heart. Besides juggling due dates and midterm exams from other classes, being able to efficiently time manage my schedule to meet the constraints of my fellow team members became a persistent struggle. The ability to work well under pressure and along side a team with various different strengths, weaknesses, personalities, and time restraints quickly became a must. I believe that this experience has made me not only a more knowledgeable programmer, but also taught me tremendously valuable lessons  on how to work with a team.
+
+
 # Links
 
 * You can view the Gather app [here](http://gather.meteorapp.com/#/).
 * You can view the source code here: <a href="https://github.com/HACC2018/The-Johnson-Family"><i class="large github icon"></i>HACC2018/The-Johnson-Family</a>
 * [Video Presentation](https://youtu.be/XZxnj_RrCKs).
-* You can learn more about sustainability at UH Manoa [here](http://manoa.hawaii.edu/sustainability/).
+* Learn more about [sustainability at UH Manoa](http://manoa.hawaii.edu/sustainability/).
 
 
 
