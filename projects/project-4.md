@@ -20,6 +20,7 @@ summary: A web application designed for the Department of Sustainability.
 
 * You can view the Gather app [here](http://gather.meteorapp.com/#/).
 * You can view the source code here: <a href="https://github.com/HACC2018/The-Johnson-Family"><i class="large github icon"></i>HACC2018/The-Johnson-Family</a>
+* [Video Presentation](https://www.youtube.com/watch?time_continue=45&v=XZxnj_RrCKs).
 
 Here
 
