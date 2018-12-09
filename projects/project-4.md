@@ -36,11 +36,11 @@ In order to realize our solution, we are implementing a database in a series of 
 
 <img class="ui image" src="../images/landing3.png">
 
-Upon registering or signing in to your account, you may submit data from a trash audit event. The information will then be sent to an administrator to await verification. Once the pending records are verified to be accurate, the data will then be sent to dashboard.
+Upon registering or signing in to your account, you may submit data from a trash audit event. The information will then be sent to an administrator to await verification. 
 
 <img class="ui image" src="../images/addbag.png">
 
-The dashboard was custom designed to present data that Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. 
+Once the pending records are verified to be accurate, the data will then be sent to dashboard. The dashboard was custom designed to present data that Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. 
 
 <img class="ui image" src="../images/dashboard.png">
 
@@ -50,7 +50,13 @@ When logged in as an administrator, you are able to view the ‘Admin’ page. T
 
 # My Contribution
 
+As part of the front end team, I was responsible for the design and user experience aspect of the application. To achieve this, I used a mix of Javascript, CSS, SemanticUI, and React. A few of my core contributions and features that I developed were:
 
+* Landing Page
+* Admin Page
+* Dashboard Page
+* Graphics Design
+* Video Production
 
 # Links
 
