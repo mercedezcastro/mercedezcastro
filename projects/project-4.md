@@ -40,7 +40,7 @@ Upon registering or signing in to your account, you may submit data from a trash
 
 <img class="ui image" src="../images/addbag.png">
 
-Once the pending records are verified to be accurate, the data will then be sent to dashboard. The dashboard was custom designed to present data that Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. 
+Once the pending records are verified to be accurate, the data will then be sent to the dashboard. The dashboard was custom designed to present data that the Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. 
 
 <img class="ui image" src="../images/dashboard.png">
 
@@ -58,7 +58,7 @@ As part of the front end team, I was responsible for the design and user experie
 * Graphics Design
 * Video Production
 
-My biggest challenge during this competition was understanding the back end functionality. As someone with no prior knowledge of database systems, being able to extract data from the database to accurately deploy and display in the application was a complicated and perplexing task. Due to the time limitations for the event we were also unable to implement many other additional features, such as a ‘Organizations’ page were groups can create and market waste audit events and a reward system as incentive for students to actively participate and contribute to zero waste practices.
+My biggest challenge during this competition was understanding the back end functionality. As someone with no prior knowledge of database systems, being able to extract data from the database to accurately deploy and display in the application was a complicated and perplexing task. Due to the time limitations for the event we were also unable to implement many other additional features, such as a ‘Organizations’ page where groups can create and market waste audit events and a reward system as incentive for students to actively participate and contribute to zero waste practices.
 
 Although participating in this event was without question an extremely valuable learning experience, I must say that these events are not for the faint of heart. Besides juggling due dates and midterm exams from other classes, being able to efficiently time manage my schedule to meet the constraints of my fellow team members became a persistent struggle. The ability to work well under pressure and along side a team with various different strengths, weaknesses, personalities, and time restraints quickly became a must. I believe that this experience has made me not only a more knowledgeable programmer, but also taught me tremendously valuable lessons  on how to work with a team.
 
