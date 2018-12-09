@@ -30,16 +30,27 @@ Our solution is a two-pronged approach involving a web app and a smart bin. Our 
 
 In order to realize our solution, we are implementing a database in a series of collections through MongoDB. The web app will use the JavaScript framework Meteor with Semantic UI React, simplifying the process of designing and deploying a clean, intuitive app. The accompanying smart bin will be implemented using proximity and load cell sensors connected to a NodeMCU WiFi Development Board that’s programmed to push data to our database using the MQTT protocol.
 
+<img class="ui image centered" src="../images/landing4.png">
 
 # Web App Features
 
-<img class="ui image centered" src="../images/landing3.png">
+<img class="ui image" src="../images/landing3.png">
+
+Upon registering or signing in to your account, you may submit data from a trash audit event. The information will then be sent to an administrator to await verification. Once the pending records are verified to be accurate, the data will then be sent to dashboard.
+
+<img class="ui image" src="../images/addbag.png">
+
+The dashboard was custom designed to present data that Department of Sustainability was interested in. The data is dynamically allocated and updates in real time. 
+
+<img class="ui image" src="../images/dashboard.png">
+
+When logged in as an administrator, you are able to view the ‘Admin’ page. This page allows the user to view and accept incoming data, customize visualizations in the data, and view more in-depth statistics.
+
+<img class="ui image" src="../images/admin.png">
+
+# My Contribution
 
 
-
-
-
-<img class="ui image centered" src="../images/landing4.png">
 
 # Links
 
