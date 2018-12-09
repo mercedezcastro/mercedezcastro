@@ -21,8 +21,7 @@ summary: A web application designed for the Department of Sustainability.
 * You can view the Gather app [here](http://gather.meteorapp.com/#/).
 * You can view the source code here: <a href="https://github.com/HACC2018/The-Johnson-Family"><i class="large github icon"></i>HACC2018/The-Johnson-Family</a>
 
-In October of 2018, I entered the Hawaii Annual Code Challenge with a group of classmates from ICS 314 Software Engineering. 
-
+Here
 
 
 
